@@ -12,7 +12,7 @@ It has a *trendy* (at DOS days) blue background with gray font (Microsoft C/C++ 
 
 It even has a little cute TurboC / QuickBasic style menu draw in ASCII:
 
-![MXEdit 1](/img/MXEdit_2.jpg)
+![MXEdit 2](/img/MXEdit_2.jpg)
 
 ## Some technical details
 
